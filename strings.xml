@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DIY Dr</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log-Out</string>
+</resources>
