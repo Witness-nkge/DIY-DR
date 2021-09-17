@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051680827868",
+    "project_id": "diy-dr",
+    "storage_bucket": "diy-dr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051680827868:android:db6b310699304e71ef8719",
+        "android_client_info": {
+          "package_name": "com.wintech.diydr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051680827868-namnceb6rdeprsaospafs7l4bl813nos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI66-ssAE3QGGAhBmA-bwwAlY9aOdTXUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051680827868-namnceb6rdeprsaospafs7l4bl813nos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
